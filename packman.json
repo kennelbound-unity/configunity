@@ -1,0 +1,7 @@
+{
+  "name": "configunity",
+  "export": "Assets",
+  "dependencies": [
+    "kennelbound-unity/adic"
+  ]
+}
